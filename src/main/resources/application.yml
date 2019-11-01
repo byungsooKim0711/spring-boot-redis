@@ -1,0 +1,1 @@
+spring:  redis:    port: 6379    host: 119.207.76.90    password: humuson0722
